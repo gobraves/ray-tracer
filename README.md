@@ -1,5 +1,5 @@
 # Ray Tracing in a weekend implementation
 
-- [] python  
-- [] golang  
-- [] rust  
+- [ ] python  
+- [ ] golang  
+- [ ] rust  
